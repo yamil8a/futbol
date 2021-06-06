@@ -2,4 +2,6 @@ Este deporte se juega con 11 jugadores.
 
 los jugadores tiene las camisas marcadas con sus nombres 
 
-Este deporte se juega con un balon 
+Este deporte se juega con un balon.
+
+me gusta el futbol.
